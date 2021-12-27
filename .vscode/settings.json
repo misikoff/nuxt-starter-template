@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "vetur.validation.template": false,
+    "vetur.validation.style": false,
+    "css.validate": false,
+    "scss.validate": false,
+    "js/ts.implicitProjectConfig.experimentalDecorators": true
+}

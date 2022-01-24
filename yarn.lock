@@ -10813,14 +10813,12 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier-plugin-tailwind-css@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwind-css/-/prettier-plugin-tailwind-css-1.5.0.tgz#ec8faa7e671f92900a548c18b708838c445ace9c"
-  integrity sha512-LUbINk8O0l+r7iPO6fUOQtoZdF7lQ0SGZTrlAl6IjW8zc5URMGqdW2QVoIK2de2HQeKvb9X2xv8aUzf+v2UVYw==
-  dependencies:
-    prettier "^2.0.5"
+prettier-plugin-tailwindcss@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.2.tgz#cf877c9f0f90e3a6f6bdf0ea5856be406070a28f"
+  integrity sha512-dvfbiCzrqB7XPGhNp8t9I44WT+7jPbeX01Pj3NCqgvZRUVHwgaVbUuHYX6s4NbDVPI/jTcw2HuXcUMFSYniaCQ==
 
-"prettier@^1.18.2 || ^2.0.0", prettier@^2.0.5, prettier@^2.1.2:
+"prettier@^1.18.2 || ^2.0.0", prettier@^2.1.2:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==

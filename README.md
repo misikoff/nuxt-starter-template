@@ -29,7 +29,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 - Husky commit hooks
 - lint staged files
 - Commit linting
-- Jest Testing
 - 
 - 🦄 Easily removable [nice-to-haves](#use-only-what-you-need)
 - 📱 Native-like mobile experience

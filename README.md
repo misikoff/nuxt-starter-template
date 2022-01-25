@@ -1,4 +1,4 @@
-# Nuxt StitchedIn Template
+# Nuxt Starter Template
 
 ## Build Setup
 

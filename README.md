@@ -37,5 +37,3 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 1. [Use this template](https://github.com/singularityconsulting/nuxt-starter-template/generate)
 2. Enjoy ✨
-
-

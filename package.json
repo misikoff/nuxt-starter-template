@@ -24,11 +24,11 @@
     }
   },
   "dependencies": {
-    "@heroicons/vue": "^1.0.5",
+    "@heroicons/vue": "^1.0.6",
     "@nuxt/content": "^1.9.0",
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/pwa": "^3.0.2",
-    "core-js": "^3.22.2",
+    "core-js": "^3.22.8",
     "fibers": "^5.0.1",
     "nuxt": "^2.14.6"
   },
@@ -55,7 +55,7 @@
     "lint-staged": "^12.3.1",
     "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.1.10",
-    "sass": "^1.51.0",
+    "sass": "^1.52.3",
     "stylelint": "^13.0.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^22.0.0",
